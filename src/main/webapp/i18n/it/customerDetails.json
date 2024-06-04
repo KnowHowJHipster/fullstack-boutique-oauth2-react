@@ -1,0 +1,31 @@
+{
+  "boutiqueApp": {
+    "customerDetails": {
+      "home": {
+        "title": "CustomerDetails",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Genera un nuovo Customer Details",
+        "createOrEditLabel": "Genera o modifica un Customer Details",
+        "notFound": "No Customer Details found"
+      },
+      "created": "&Egrave; stato generato un nuovo Customer Details con identificatore {{ param }}",
+      "updated": "&Egrave; stato aggiornato Customer Details identificato da {{ param }}",
+      "deleted": "&Egrave; stato eliminato Customer Details con identificatore {{ param }}",
+      "delete": {
+        "question": "Sei sicuro di volere eliminare Customer Details {{ id }}?"
+      },
+      "detail": {
+        "title": "Customer Details"
+      },
+      "id": "ID",
+      "gender": "Gender",
+      "phone": "Phone",
+      "addressLine1": "Address Line 1",
+      "addressLine2": "Address Line 2",
+      "city": "City",
+      "country": "Country",
+      "user": "User",
+      "cart": "Cart"
+    }
+  }
+}

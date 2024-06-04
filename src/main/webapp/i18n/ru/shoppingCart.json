@@ -1,0 +1,30 @@
+{
+  "boutiqueApp": {
+    "shoppingCart": {
+      "home": {
+        "title": "Shopping Carts",
+        "refreshListLabel": "Обновить список",
+        "createLabel": "Создать новый Shopping Cart",
+        "createOrEditLabel": "Создать или отредактировать Shopping Cart",
+        "notFound": "Shopping Carts не найдено"
+      },
+      "created": "Новый Shopping Cart создан с идентификатором {{ param }}",
+      "updated": "Shopping Cart обновлен с идентификатором {{ param }}",
+      "deleted": "Shopping Cart удален с идентификатором {{ param }}",
+      "delete": {
+        "question": "Вы уверены что хотите удалить Shopping Cart {{ id }}?"
+      },
+      "detail": {
+        "title": "Shopping Cart"
+      },
+      "id": "ID",
+      "placedDate": "Placed Date",
+      "status": "Status",
+      "totalPrice": "Total Price",
+      "paymentMethod": "Payment Method",
+      "paymentReference": "Payment Reference",
+      "order": "Order",
+      "customerDetails": "Customer Details"
+    }
+  }
+}

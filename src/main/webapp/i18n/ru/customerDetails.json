@@ -1,0 +1,31 @@
+{
+  "boutiqueApp": {
+    "customerDetails": {
+      "home": {
+        "title": "Customer Details",
+        "refreshListLabel": "Обновить список",
+        "createLabel": "Создать новый Customer Details",
+        "createOrEditLabel": "Создать или отредактировать Customer Details",
+        "notFound": "Customer Details не найдено"
+      },
+      "created": "Новый Customer Details создан с идентификатором {{ param }}",
+      "updated": "Customer Details обновлен с идентификатором {{ param }}",
+      "deleted": "Customer Details удален с идентификатором {{ param }}",
+      "delete": {
+        "question": "Вы уверены что хотите удалить Customer Details {{ id }}?"
+      },
+      "detail": {
+        "title": "Customer Details"
+      },
+      "id": "ID",
+      "gender": "Gender",
+      "phone": "Phone",
+      "addressLine1": "Address Line 1",
+      "addressLine2": "Address Line 2",
+      "city": "City",
+      "country": "Country",
+      "user": "User",
+      "cart": "Cart"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "boutiqueApp": {
+    "shoppingCart": {
+      "home": {
+        "title": "ShoppingCarts",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Genera un nuovo Shopping Cart",
+        "createOrEditLabel": "Genera o modifica un Shopping Cart",
+        "notFound": "No Shopping Carts found"
+      },
+      "created": "&Egrave; stato generato un nuovo Shopping Cart con identificatore {{ param }}",
+      "updated": "&Egrave; stato aggiornato Shopping Cart identificato da {{ param }}",
+      "deleted": "&Egrave; stato eliminato Shopping Cart con identificatore {{ param }}",
+      "delete": {
+        "question": "Sei sicuro di volere eliminare Shopping Cart {{ id }}?"
+      },
+      "detail": {
+        "title": "Shopping Cart"
+      },
+      "id": "ID",
+      "placedDate": "Placed Date",
+      "status": "Status",
+      "totalPrice": "Total Price",
+      "paymentMethod": "Payment Method",
+      "paymentReference": "Payment Reference",
+      "order": "Order",
+      "customerDetails": "Customer Details"
+    }
+  }
+}

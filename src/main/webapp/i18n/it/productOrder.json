@@ -1,0 +1,27 @@
+{
+  "boutiqueApp": {
+    "productOrder": {
+      "home": {
+        "title": "ProductOrders",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Genera un nuovo Product Order",
+        "createOrEditLabel": "Genera o modifica un Product Order",
+        "notFound": "No Product Orders found"
+      },
+      "created": "&Egrave; stato generato un nuovo Product Order con identificatore {{ param }}",
+      "updated": "&Egrave; stato aggiornato Product Order identificato da {{ param }}",
+      "deleted": "&Egrave; stato eliminato Product Order con identificatore {{ param }}",
+      "delete": {
+        "question": "Sei sicuro di volere eliminare Product Order {{ id }}?"
+      },
+      "detail": {
+        "title": "Product Order"
+      },
+      "id": "ID",
+      "quantity": "Quantity",
+      "totalPrice": "Total Price",
+      "product": "Product",
+      "cart": "Cart"
+    }
+  }
+}
