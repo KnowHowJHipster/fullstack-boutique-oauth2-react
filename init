@@ -1,0 +1,6 @@
+#!/bin/bash
+
+jhipster import-jdl app.jdl
+jhipster jdl entities.jdl
+git add * .jhipster/ .yo-rc.json
+git commit -a -m "Create boutique entities crud."
